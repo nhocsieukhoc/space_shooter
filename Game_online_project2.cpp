@@ -71,7 +71,7 @@ void WelcomeMessage()
 	gotoxy(x, y + 3); printf("|_____|  _|__,|___|___|  |_____|_|_|___|___|_| |___|_|  ");
 	gotoxy(x, y + 4); printf("      |_|");
 	gotoxy(x, y + 6); printf("                 Press any key to play");
-	gotoxy(x, y + 7); printf("         developed by Carlos Hernandez C. - 2016");
+	gotoxy(x, y + 7); printf("         		28/01/2021");
 }
 void GameOverDefeatMessage()
 { // When you lose the game you see this in screen
